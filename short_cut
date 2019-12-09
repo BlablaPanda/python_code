@@ -1,2 +1,7 @@
 #cmd pushd : go to net drive folder
+#cmd pip install [package_name] --upgrade
+#cmd python -m django startproject ProTwo
+
+
 #python import sys, sys.exec_prefix to find where is python
+
