@@ -1,0 +1,2 @@
+#cmd pushd : go to net drive folder
+#python import sys, sys.exec_prefix to find where is python
