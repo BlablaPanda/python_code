@@ -5,3 +5,13 @@
 
 #python import sys, sys.exec_prefix to find where is python
 
+
+Django :
+1. creae app and add templates 
+2. setting.py add dir_templates + app +Templates
+3. module.py creat class for database
+4. views.py creat class for page
+5. add url.py in app
+6. set url.py in project (by import include)
+7. migrate + makemigration
+8. admin.py to add  model (admin.site.register)
