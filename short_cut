@@ -1,3 +1,10 @@
+Python_Module_Package:
+  __init__.py #package  
+  from module import function
+  from package.subpackage import module
+  if__name__=="__main__": #to run fucntion diynamiquely (like main)
+  
+
 #cmd pushd : go to net drive folder
 #cmd pip install [package_name] --upgrade
 #cmd python -m django startproject ProTwo
@@ -15,3 +22,7 @@ Django :
 6. set url.py in project (by import include)
 7. migrate + makemigration
 8. admin.py to add  model (admin.site.register)
+9.forms.py -> view.py forms class
+
+
+
