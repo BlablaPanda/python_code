@@ -3,7 +3,9 @@ Python_Module_Package:
   from module import function
   from package.subpackage import module
   if__name__=="__main__": #to run fucntion diynamiquely (like main)
-  
+  **kwargs #dict
+  *args #tuble
+  ''' docstring input output ''''#docstring  -> help(fucntion_to_see_docstring)
 
 #cmd pushd : go to net drive folder
 #cmd pip install [package_name] --upgrade
